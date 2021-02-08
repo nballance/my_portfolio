@@ -1,4 +1,4 @@
-#https://nballance.github.io/my_portfolio/
+https://nballance.github.io/portfolio/
 
 # Getting Started with Create React App
 
