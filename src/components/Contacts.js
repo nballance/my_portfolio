@@ -12,7 +12,7 @@ const useStyles = makeStyles((theme) => ({
     left: "50%",
     transform: "translate(-50%, -50%)",
     position: "absolute",
-    width: "500px",
+    width: "50%",
   },
   button: {
     marginTop: "1rem",
@@ -88,7 +88,7 @@ const Contacts = () => {
               left: "50%",
               transform: "translate(-50%, -50%)",
               position: "absolute",
-              width: "500px",
+              width: "50%",
             }}
           >
             <Typography
