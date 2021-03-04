@@ -149,7 +149,7 @@ const Resume = () => {
             variant="h2"
             className={`${classes.timeLineYear} ${classes.timeLineItem} `}
           >
-            2015-2016
+            2016-2018
           </Typography>
           <Box component="div" className={classes.timeLineItem}>
             <Typography
