@@ -144,44 +144,12 @@ const Resume = () => {
           working experience
         </Typography>
         <Box component="div" className={classes.timeLine}>
-          <Typography
+          
+        <Typography
             variant="h2"
             className={`${classes.timeLineYear} ${classes.timeLineItem} `}
           >
             2015-2016
-          </Typography>
-          <Box component="div" className={classes.timeLineItem}>
-            <Typography
-              variant="h5"
-              align="center"
-              className={classes.subHeading}
-            >
-              Programming Educator
-            </Typography>
-            <Typography
-              variant="body1"
-              align="center"
-              style={{ color: "tomato" }}
-            >
-              Union Twp Middle School
-            </Typography>
-            <Typography
-              variant="subtitle1"
-              align="left"
-              style={{ color: "tan" }}
-            >
-              Taught basic programming skills to children at local middle
-              school. Used applications, such as, Scratch to teach fundamental
-              concepts including variables, loops, and other general programming
-              logic.
-            </Typography>
-          </Box>
-
-          <Typography
-            variant="h2"
-            className={`${classes.timeLineYear} ${classes.timeLineItem} `}
-          >
-            2016-2018
           </Typography>
           <Box component="div" className={classes.timeLineItem}>
             <Typography
@@ -196,7 +164,7 @@ const Resume = () => {
               align="center"
               style={{ color: "tomato" }}
             >
-              The Farmhouse at the Grand Colonial
+              The Farmhouse at the Grand Colonial-Hampton, NJ
             </Typography>
             <Typography
               variant="subtitle1"
@@ -205,6 +173,39 @@ const Resume = () => {
             >
               Responsible for organizing and judging needs of restaurant.
               Assisted in garde-manger station when needed.
+            </Typography>
+          </Box>
+          
+          <Typography
+            variant="h2"
+            className={`${classes.timeLineYear} ${classes.timeLineItem} `}
+          >
+            2016-2018
+          </Typography>
+          <Box component="div" className={classes.timeLineItem}>
+            <Typography
+              variant="h5"
+              align="center"
+              className={classes.subHeading}
+            >
+              Programming Educator
+            </Typography>
+            <Typography
+              variant="body1"
+              align="center"
+              style={{ color: "tomato" }}
+            >
+              Union Twp Middle School-Hampton, NJ
+            </Typography>
+            <Typography
+              variant="subtitle1"
+              align="left"
+              style={{ color: "tan" }}
+            >
+              Taught basic programming skills to children at local middle
+              school. Used applications, such as, Scratch to teach fundamental
+              concepts including variables, loops, and other general programming
+              logic.
             </Typography>
           </Box>
 
@@ -227,7 +228,7 @@ const Resume = () => {
               align="center"
               style={{ color: "tomato" }}
             >
-              Rep Masonry
+              Rep Masonry-Manville, NJ
             </Typography>
             <Typography
               variant="subtitle1"
@@ -236,6 +237,37 @@ const Resume = () => {
             >
               Independently worked on contract jobs to fulfill requirements of
               customers.
+            </Typography>
+          </Box>
+
+          <Typography
+            variant="h2"
+            className={`${classes.timeLineYear} ${classes.timeLineItem} `}
+          >
+            2020-2021
+          </Typography>
+          <Box component="div" className={classes.timeLineItem}>
+            <Typography
+              variant="h5"
+              align="center"
+              className={classes.subHeading}
+            >
+              Assembled, Programmed, and Tested Products
+            </Typography>
+            <Typography
+              variant="body1"
+              align="center"
+              style={{ color: "tomato" }}
+            >
+              IOTecha-Cranbury, NJ
+            </Typography>
+            <Typography
+              variant="subtitle1"
+              align="left"
+              style={{ color: "tan" }}
+            >
+              Assembled hardware and installed software to be used across smart electric vehicle charging applications.
+              Performed testing and quality assurance on products to be directly sold to multi-billion-dollar automobile manufacturers.
             </Typography>
           </Box>
 
